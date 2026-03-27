@@ -17,7 +17,7 @@ abstract class Pen implements Observer{
         if (inkLevel==0) {
             System.out.println("Pen is out of ink...");
         } else {
-            System.out.println("Ink level updated" + inkLevel);
+            System.out.println("Ink level updated: " + inkLevel);
         }
     }
 

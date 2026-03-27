@@ -10,7 +10,7 @@ public class BallPen extends Pen{
 
     @Override
     public void performWriting() {
-        System.out.println("Writing it Ball pen...");
+        System.out.println("Writing with Ball pen...");
     }
 
     @Override
