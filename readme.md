@@ -1,1 +1,1 @@
-![UML Diagram](static/pen-design-uml-v4.png)
+![UML Diagram](static/pen-design-uml-v5.png)
